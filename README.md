@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **Discord: Petrrrrr#1030**
+- 📫 How to reach me **Discord: petrrrrr
 
 <p align="left">
 </p>
