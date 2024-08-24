@@ -1,7 +1,5 @@
 <h1 align="center">HELLO WORLD 👋</h1>
-<h3 align="center">My name is Petr. I am a passionate frontend developer and programator from Czech Republic</h3>
-
-- 🌱 I’m currently learning **C++**
+<h3 align="center">My name is Petr. I am a frontend developer and programator from Czech Republic</h3>
 
 - 📫 How to reach me **Discord**: petrrrrr
 
